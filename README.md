@@ -94,8 +94,8 @@ The Rice Trade Platform is a comprehensive **mobile application backend** design
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd Kuteeram-Tech
+git clone https://github.com/srajan-kush/Integrated-Rice-Trade-Platform-backend.git
+cd Integrated-Rice-Trade-Platform-backend
 ```
 
 2. Install dependencies
