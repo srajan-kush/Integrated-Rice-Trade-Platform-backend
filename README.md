@@ -1,8 +1,11 @@
-# Kuteeram Tech API
+# Rice Trade Platform
 
-A RESTful API for the Kuteeram Tech e-commerce platform with real-time bidding and logistics features.
+A full-stack mobile application for rice trading with real-time bidding and logistics features.
 
 ## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
@@ -10,6 +13,76 @@ A RESTful API for the Kuteeram Tech e-commerce platform with real-time bidding a
 - [Authentication](#authentication)
 - [Error Handling](#error-handling)
 - [Examples](#examples)
+
+## Project Overview
+
+The Rice Trade Platform is a comprehensive mobile application designed to facilitate rice trading between sellers, buyers, and logistics providers. The platform enables real-time bidding, order management, and logistics tracking.
+
+## Features
+
+### Seller Features
+- User registration and authentication
+- Product listing and management
+- Real-time bidding system
+- Order management and tracking
+- Logistics assignment
+- Payment processing
+- Analytics and reporting
+- Push notifications for bids and orders
+
+### Buyer Features
+- User registration and authentication
+- Browse and search products
+- Place bids on products
+- View bid history
+- Order management
+- Track order status
+- Payment processing
+- Push notifications for bid status and orders
+
+### Logistics Features
+- User registration and authentication
+- Order pickup and delivery management
+- Real-time location tracking
+- OTP-based verification system
+- Order status updates
+- Route optimization
+- Push notifications for new orders
+
+### Common Features
+- Real-time chat between users
+- Location-based services
+- Secure payment processing
+- Push notifications
+- User profile management
+- Rating and review system
+- Search and filter functionality
+- Multi-language support
+
+## Tech Stack
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Socket.io (for real-time features)
+- JWT Authentication
+- Bcrypt for password hashing
+- Mongoose ODM
+
+### Mobile App
+- Flutter
+- Provider for state management
+- Google Maps integration
+- Firebase Cloud Messaging
+- Local storage
+- HTTP client for API communication
+
+### Additional Tools
+- Postman for API testing
+- Git for version control
+- VS Code for development
+- Android Studio for mobile development
 
 ## Prerequisites
 
@@ -21,8 +94,8 @@ A RESTful API for the Kuteeram Tech e-commerce platform with real-time bidding a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/srajan-kush/Integrated-Rice-Trade-Platform-backend.git
-cd Integrated-Rice-Trade-Platform-backend
+git clone <repository-url>
+cd Kuteeram-Tech
 ```
 
 2. Install dependencies
