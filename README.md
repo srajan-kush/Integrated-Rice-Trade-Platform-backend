@@ -16,7 +16,7 @@ A full-stack mobile application for rice trading with real-time bidding and logi
 
 ## Project Overview
 
-The Rice Trade Platform is a comprehensive mobile application designed to facilitate rice trading between sellers, buyers, and logistics providers. The platform enables real-time bidding, order management, and logistics tracking.
+The Rice Trade Platform is a comprehensive mobile application backend designed to facilitate rice trading between sellers, buyers, and logistics providers. The platform enables real-time bidding, order management, and logistics tracking.
 
 ## Features
 
