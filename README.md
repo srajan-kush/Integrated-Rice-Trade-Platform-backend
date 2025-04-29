@@ -21,8 +21,8 @@ A RESTful API for the Kuteeram Tech e-commerce platform with real-time bidding a
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd Kuteeram-Tech
+git clone https://github.com/srajan-kush/Integrated-Rice-Trade-Platform-backend.git
+cd Integrated-Rice-Trade-Platform-backend
 ```
 
 2. Install dependencies
