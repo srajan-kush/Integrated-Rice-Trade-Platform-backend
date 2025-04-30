@@ -70,13 +70,6 @@ The Rice Trade Platform is a comprehensive **mobile application backend** design
 - Bcrypt for password hashing
 - Mongoose ODM
 
-### Mobile App
-- Flutter
-- Provider for state management
-- Google Maps integration
-- Firebase Cloud Messaging
-- Local storage
-- HTTP client for API communication
 
 ### Additional Tools
 - Postman for API testing
